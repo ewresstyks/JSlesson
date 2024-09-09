@@ -1,1 +1,1 @@
-document.write("hello world");
+document.write("Бойко Маргарита <br> 16 лет <br> я люблю рисовать");
